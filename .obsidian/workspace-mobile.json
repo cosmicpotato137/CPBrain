@@ -11,8 +11,12 @@
             "id": "7fcfd85b4a5fa280",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HelloWorld.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "HelloWorld.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "HelloWorld.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "HelloWorld.md"
+          }
         }
       }
     ],
@@ -123,7 +131,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fcfd85b4a5fa280",
+  "active": "13f1ba0153825bc8",
   "lastOpenFiles": [
     "HelloWorld.md"
   ]
