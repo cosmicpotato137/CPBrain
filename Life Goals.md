@@ -1,0 +1,21 @@
+- Get a remote job doing software engineering
+    - Build [[My Website]] - DONE
+        - follow the course online - DONE
+        - Online resume - DONE
+        - list of projects with links to github - DONE
+        - about me - DONE
+        - contact page - DONE
+        - research hosting - DONE
+    - Apply for 100 positions - DONE
+    - [[Informational Interviews]] with 30 people - ???
+    - set up personal email for professional use - NOT NEEDED?
+        
+- Get a housesitting job - N/A
+    - Apply for 10 housesitting jobs N/A
+- Run a marathon - WORKING 
+- Go abroad for a month - APPLYING FOR FULBRIGHT
+- Dance - WITH SYALOMEE :)
+- Play autumn leaves on [[Guitar]]  - WORKING
+
+- [[Fulbright]]
+- [[Grad School]]

@@ -1,0 +1,4 @@
+[[My Journal]]
+
+[[TODO]]
+
