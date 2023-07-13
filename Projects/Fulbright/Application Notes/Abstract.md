@@ -1,0 +1,1 @@
+Prepare an executive summary detailing the what, where, and why of your proposed project․ If you are proposing the pursuit of a graduate degree program, summarize the program and relevance to your career/education plans․
