@@ -1,10 +1,8 @@
-# First Draft SOP
-
 Statement of Purpose
 
 Dear Fulbright Selection Committee,
 
-I am writing to express my strong interest in the Fulbright student program and my desire to pursue the proposed program in Switzerland. As an aspiring robotics student and ****************************something else****************************, I am particularly drawn to the country's strong climate policies, the abundance of opportunities it offers, and its exceptional quality of life.
+I am writing to express my strong interest in the Fulbright student program and my desire to pursue the proposed program in Switzerland. As an aspiring robotics student and *something else*, I am particularly drawn to the country's strong climate policies, the abundance of opportunities it offers, and its exceptional quality of life.
 
 Switzerland stands out for it’s progressive climate policies, ranking ninth in Yale's Environmental Performance Index of 2022. This commitment to environmental sustainability resonates with my own passion for combating climate change through innovative technologies. **********************************************************************According to the article I read …********************************************************************** Switzerland provides a thriving ecosystem for my academic and professional growth in robotics. Research centers and collaborations such as [CLIMACT](https://www.climact.ch/projects) and the [Swiss National Center for Competence in Robotics](https://nccr-robotics.ch/) (NCCR) provide opportunities for professional research. Additionally, Switzerland is home to many Robotics companies such as Sevensense Robotics and F&P Robotics, some of which have spawned from research funded by EPFL. A couple of projects and companies which have most peaked my interest are ARC (Autonomous River Cleanup) and the CLIMACT project “Robotic platform for monitoring the biodiversity of retreating glaciers.”
 
