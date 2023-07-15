@@ -12,6 +12,7 @@ My Hub for information on the Fulbright application
 ### [[Personal Statement]]
 
 ## todo
-- [ ] reach out to professors immediately
-- [ ] reach out to recommenders
-- [ ] [Fulbright form](https://forms.haverford.edu/view.php?id=930232&mf_resume=148fdedab7)
+- [ ] Emails - emailed Jason abt prose
+    - [ ] reach out to professors immediately
+    - [ ] reach out to recommender
+- [x] [Fulbright form](https://forms.haverford.edu/view.php?id=930232&mf_resume=148fdedab7)
