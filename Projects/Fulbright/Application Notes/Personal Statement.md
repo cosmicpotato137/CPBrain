@@ -1,5 +1,7 @@
 ## Question Details
 
+[[Personal Statement First Draft]]
+
 The statement should be a 1 page narrative that provides a picture of yourself as an individual․ It should deal with your personal history, family background, influences on your intellectual development, the educational, professional, and cultural opportunities (or lack of them) to which you have been exposed, and the ways in which these experiences have affected you․ Also include your special interests and abilities, career plans, and life goals, etc․ It should not be a recording of facts already listed on the application or an elaboration of your Statement of Grant Purpose․ It is more of a biography, but specifically related to you and your aspirations relative to the specific Fulbright Program to which you have applied․
 
 **Important!** Adhere to the following format instructions.
@@ -14,8 +16,6 @@ The statement should be a 1 page narrative that provides a picture of yourself a
 *Line 1:*    PERSONAL STATEMENT
 
 *Line 2:*    Your Name, Host Country, Field of Study or English Teaching Assistantship
-
-[[Personal Statement First Draft]]
 
 ## Notes
 

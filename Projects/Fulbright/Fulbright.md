@@ -6,10 +6,9 @@ My Hub for information on the Fulbright application
 ### [[Host Country Engagement]]
 ### [[Plans Upon Return to the US]]
 ### [[Statement of Purpose]]
-### [[Personal Statement First Draft]]
+### [[Personal Statement]]
 ### [[General Questions]]
 ### [[General Notes]]
-### [[Personal Statement]]
 
 ## todo
 - [ ] Emails - emailed Jason abt prose

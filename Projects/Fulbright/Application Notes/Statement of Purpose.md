@@ -39,7 +39,7 @@ For applicants proposing to enroll in graduate degree programs, address the foll
     - Compared to TUM, the other university I considered, EPFL, has a more customizable program, with opportunities specialize in research or practical application.
     - EPFL has the option to pursue a [cross-disciplinary masters](https://www.epfl.ch/education/master/wp-content/uploads/2019/01/STI_SMT_RO_MA.pdf) with a variety of minor subject areas, including Engineering for Sustainability. This would allow me to pursue my goal of using robotics to combat climate change!
     - The student body is organized! At a school so large, I was surprised to learn that there are a variety of opportunities for campus engagement, including a rock wall, track and field, and extracurricular academic activities.
-    - ******************************Why Robotics?******************************
+    - ***Why Robotics?***
         - [How Roboticists Can Tackle Climate Change - IEEE Spectrum](https://spectrum.ieee.org/robotics-climate-change)
         - Angle: I have been programming software for a long time, and I want to solve hardware problems now. Build the skills to give more efficacy to my code.
         - I want to use my software skills to build smarter machines through machine and learning, computer vision and computer vision to solve problems of sustainability and social change.
