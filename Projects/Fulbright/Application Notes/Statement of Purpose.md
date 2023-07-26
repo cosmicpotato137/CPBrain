@@ -1,5 +1,3 @@
-# Statement of Purpose
-
 ## Question Details
 
 Before writing your Statement of Grant Purpose, review the [application components](https://us.fulbrightonline.org/applicants/application-components) relative to the type of grant for which you are applying․ In addition, review the award description for translation instructions, if required․

@@ -11,7 +11,7 @@ My Hub for information on the Fulbright application
 ### [[General Notes]]
 
 ## todo
-- [ ] Emails - emailed Jason abt prose
+- [ ] Emails - [[Asking for Rec Letters]]
     - [ ] reach out to professors immediately
-    - [ ] reach out to recommender
+    - [ ] reach out to recommenders - In progress
 - [x] [Fulbright form](https://forms.haverford.edu/view.php?id=930232&mf_resume=148fdedab7)

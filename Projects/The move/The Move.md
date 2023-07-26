@@ -2,6 +2,6 @@ tags: #todo
 ___
 
 ### todo
-- [ ] Internet/phone plan
-- [ ] Talk to syalomee about furniture 
-- [ ] I haul rental - syalomee ok with Friday move?
+- [x] Internet/phone plan
+- [x] Talk to syalomee about furniture 
+- [x] UHaul rental - syalomee ok with Friday move?
