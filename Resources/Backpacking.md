@@ -1,0 +1,81 @@
+Tags: #adventure
+___
+
+# Packing
+- [ ] survival
+	- [x] Backpack
+		- [x] velcro straps/zipties for extra straps
+	- [x] sunglasses - ask dad
+	- [x] sunscreen
+	- [x] bug spray
+	- [x] pocket knife
+	- [ ] lighter/matches
+	- [ ] +paracord/twine (20-30ft or more)
+	- [x] duct tape
+	- [ ] +trekking poles?
+	- [ ] +paper map?
+	- [x] compass
+	- [ ] +solar charger? [bigblue charger](https://www.amazon.com/BigBlue-Foldable-Waterproof-SunPower-Cellphones/dp/B01EXWCPLC/ref=sr_1_3?keywords=foldable%2Bsolar%2Bpanel&qid=1694117897&sprefix=foldable%2Bsolar%2Bpan%2Caps%2C127&sr=8-3&th=1)
+	- [x] battery pack
+	- [x] headlamp - in philly?
+- [ ] sleep
+	- [ ] +Tent (2 person) [rei trailmade 2](https://www.rei.com/product/216300/rei-co-op-trailmade-2-tent-with-footprint)
+	- [ ] Sleeping bag
+		- [ ] +compressible bag
+	- [ ] +sleeping mat?
+	- [ ] +drybag for sleeping bag [amazon](https://www.amazon.com/s?k=drybag&crid=NO42LC1LCCAC&sprefix=drybag%2Caps%2C156&ref=nb_sb_noss_2)
+	- [X] compressible pillow?
+- [ ] water
+	- [ ] +water bladder [amazon](https://www.amazon.com/Hydration-Reservoir-Military-Replacement-Climbing/dp/B071DQSZB8/ref=sr_1_5?crid=X60H0UH8XP90&keywords=water%2Bbladder&qid=1694122607&sprefix=water%2Bbladder%2Caps%2C126&sr=8-5&th=1)
+	- [x] water bottle
+	- [ ] +water filter 
+		- [ ] [lifestras](https://www.amazon.com/LifeStraw-Personal-Camping-Emergency-Preparedness/dp/B085HNCC3T/ref=sr_1_15?crid=2QBKC4Y9XP779&keywords=chemical%2Bwater%2Bpurifier&qid=1694121696&sprefix=chemical%2Bwater%2Bpurifier%2Caps%2C119&sr=8-15&th=1) (about a year's worth of water)
+		- [ ] [gravity bag](https://www.amazon.com/Gravity-Fed-Survival-Compatible-LifeStraw-Foldable/dp/B0BB2DY2TX/ref=sr_1_7?crid=15PKI63IGE8UL&keywords=gravity%2Bbag&qid=1694122443&sprefix=gravity%2Bbag%2Caps%2C126&sr=8-7&th=1)
+- [ ] food (2-3lbs/day)
+	- [x] bowl, silverware
+	- [ ] instant oats
+	- [ ] beans and rice
+	- [ ] protein bars
+	- [ ] food bag [amazon](https://www.amazon.com/Outdoor-Products-Ultimate-Sack-Three-Pack/dp/B001AZNATC/ref=sr_1_4?crid=1BMIH3AGJE2T1&keywords=outdoor%2Bproducts&qid=1694120067&sprefix=outdoor%2Bproducts%2Caps%2C132&sr=8-4&th=1&psc=1)
+	- [ ] trash bag
+	- [x] mug
+- [ ] cook system
+	- [ ] +fuel
+	- [ ] +stove 
+		- [ ] http://www.neotrekk.com/
+		- [ ] https://www.lofi.com/?v=7516fd43adaa
+	- [ ] +pot
+	- [x] ladle or wooden spoon
+	- [x] spatula
+	- [x] bandana (clean place to set things)
+- [ ] hygiene
+	- [x] toilet paper
+	- [ ] +trowel
+	- [x] plastic bag
+	- [ ] +biodegradable soap
+		- [ ] +container
+	- [ ] toiletries
+		- [x] chapstick
+		- [x] toothpaste
+- [ ] first aid
+	- [x] band aids
+	- [ ] Neosporin
+	- [x] ibuprofen
+	- [ ] moleskin
+	- [x] electrolytes 
+	- [ ] echinecea 
+- [ ] clothing
+	- [x] cotton long sleeved shirt
+	- [x] headband
+	- [x] underwear 2 pair
+	- [ ] wool socks 2 pair - darn tough?
+	- [x] long pants 2 pair
+	- [ ] shoes (xeros?)
+	- [x] bathing suit/quick dry shorts
+	- [x] quick dry tee 2 pair
+	- [ ] rain pants
+	- [x] rain coat
+	- [x] sweater
+	- [x] umbrella
+	- [x] towel
+	- [ ] baseball hat - at the farm?

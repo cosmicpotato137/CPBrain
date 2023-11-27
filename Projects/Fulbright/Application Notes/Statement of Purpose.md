@@ -1,3 +1,6 @@
+[[First Draft SOP]]
+[[Second Draft SOP]]
+[[Final Draft SOP]]
 ## Question Details
 
 Before writing your Statement of Grant Purpose, review the [application components](https://us.fulbrightonline.org/applicants/application-components) relative to the type of grant for which you are applying․ In addition, review the award description for translation instructions, if required․
@@ -67,5 +70,3 @@ I want to use my software skills to build smarter machines through machine and l
     - no
 - Which of the specifics is it ok to give generic answers for? What are the reviewers really looking for?
 
-[[First Draft SOP]]
-[[Second Draft SOP]]

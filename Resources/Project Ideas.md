@@ -1,4 +1,0 @@
-- Data Views for Obsidian
-	- Open and edit regular csvs in unity
-	- provide data visualization tools like notion
-- color half tone visualizer

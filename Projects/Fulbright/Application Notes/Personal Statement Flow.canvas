@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"f5d1f9b4c4c366ac","x":-280,"y":-240,"width":385,"height":260,"type":"text","text":"# Outdoors history\nEver since I was young, I have loved the outdoors\n- Talk about hiking with my parents\n- Cross country trips\n- Learning about climate change\n\t- It seemed hopeless at first"},
+		{"id":"034e063f4230569c","x":-280,"y":-640,"width":385,"height":360,"type":"text","text":"# Why robotics\nI was an excellent math student in high school, and had planned to move on to pursue a math major in college. \n- Throughout my time in the math program, the question of why always plagued me\n- I chose computer science because it gave me a more concrete application for math\n- As a visual studies/arts enthusiast, I gravitated towards computer graphics and game design, completing my thesis on the topic.\n- However, as I graduated college and started planning my future, game design seemed too abstract\n- I chose computer science because I enjoy creating things, but I also want those things to have a broad benefit to society. \n- Despite my interest in graphics, I again started looking for something more practical, ultimately landing on robotics"},
+		{"id":"b12a766fc673a4cd","x":260,"y":-427,"width":360,"height":295,"type":"text","text":"# Fusion Of Interests\nThere are many things I could choose to do with robotics. I am choosing climate change because of my love of the outdoors, and it's ethical and social implications.\n- I am more fortunate than ever to have grown up in Vermont. According to climate forecasts, Central Vermont is predicted to be the least affected part of the US by increasing temperatures\n- Even so, this summer, Vermont has seen the worst flooding since hurricane Irene-simply from precipitation. \n- The \n- I am called to use the skills that I have to minimize the affect of climate change for the people in my community and around the world"},
+		{"id":"c1ef4befb9975607","x":-20,"y":140,"width":680,"height":400,"type":"file","file":"Projects/Fulbright/Drafts/Personal Statement Second Draft.md"}
+	],
+	"edges":[
+		{"id":"a10d09d8e8cea691","fromNode":"034e063f4230569c","fromSide":"right","toNode":"b12a766fc673a4cd","toSide":"left"},
+		{"id":"f2ef50fbe1f61af7","fromNode":"f5d1f9b4c4c366ac","fromSide":"right","toNode":"b12a766fc673a4cd","toSide":"left"}
+	]
+}
